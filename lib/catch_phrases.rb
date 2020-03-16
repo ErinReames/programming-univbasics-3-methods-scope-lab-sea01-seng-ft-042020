@@ -12,7 +12,7 @@ def link
 end
 
 def all_phrases
-  return mario
-  return toadstool
-  return link
+   mario
+   toadstool
+  link
 end
